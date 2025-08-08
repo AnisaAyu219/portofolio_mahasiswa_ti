@@ -33,6 +33,15 @@ Admins can search for outstanding students and export the search results in an E
 - **Guest Access (Public)**
 Guests (non-logged-in users) can view student works, achievements, and training. This feature allows wider public access, including recruiters, industry partners, or other stakeholders.
 
+
+### 🚀 Technologies Used
+- Laravel 9
+- PHP 
+- MySQL
+- Bootstrap / HTML + CSS + JS
+- Figma (for UI design)
+
+
 ### 🎥 Demo Video  
 [Click here to watch the demo video](https://youtu.be/Pby3qiBj-r4?si=TS3lvusnj-Xh6l5y)
 
